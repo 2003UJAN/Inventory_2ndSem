@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T05:53:50.694Z" agent="5.0 (Windows)" etag="SlzVbQ3N-HHH5BaTDWyv" version="21.0.6" type="github"><diagram name="Page-1" id="2YBvvXClWsGukQMizWep">7ZlLc5swEMc/DcfMGAh+HONHm0MzTePO9CzDxqiVERHCj376rowEFpjETULTpj4Z/bV6oP1pdxk7/mS1/ShIGt/wCJjj9aKt408dz3O9YIQ/StlppdfvF8pS0EhrlTCnP8EYajWnEWSWoeScSZraYsiTBEJpaUQIvrHN7jmzV03JEhrCPCSsqX6jkYwLdRj0Kv0a6DI2K7s93bMixlgLWUwivjmQ/JnjTwTnsnhabSfA1OmZcynGfWjpLTcmIJGnDCA3I7Fb+9v1wEsf+PbL9O56dqFnWROW6xd2/KvPi+/qKItdy505CnyBVD3mK/aJ3gOjCbbGKQi6AgkCe5iWbyttvImphHlKQjV0g5SgFssVw5aLj+g3SXCIGt7DdiR4+pWIJUgthJwxkmZ0sd+GUgSEucjoGu4gK3hRKs+lWnpScqDElAuJSiYFrqFEIJncQIaP4wQ2swh9bV5wMHa8/kOu3DGGsqOU8FwO+tmCH4yujLxJzahlgjUISZGylqH4gmuIrLE9y0DwPIkaFoPpfqK9R3EB2Lai4pYA4tUFjs4SOzTRAy41sju7uakuQIl5fAC/b0SiL92ynLniEh80mr+BqdfEtE7nAVMpR2fvtxCMnWBagxSRiPmSJ4QdYnoUH7kHca64z5rgn9k6zlZ7oGkHLrCAGxwDrsmbO+qKN7/BW0SzlMgwfow7c/BXjC4T1BZcSr7CjgxBklcqGyn+cFblwSQyyoLx8Icx0ylwaJGCcNlUGAL8aent0rM6SmovFq1i22rCZ7gNU66JyI9e0KZ7BTAiMVLbafmIt/TQW3VzKywu3ONcmBkynosQ9KCay8tdPJ+Cy3PUeddRJ7DTnOudFnaGXUWd4FyM/ZfoPk5p+QHx11Rj/XNc/Hfgao80p1ZjwxOrsXp2fjXeBq9bjR2pvP5spaWlonp5+qvnyeKr30nx5Y5sDFz/tOoLz5bsDsz0/W9fZ3g8DVfEFDO+amk3bCAlQOYieSlQPIVEJU6SxXsi3KL7zYr6U1Hrv2mdX0fN6wX2FMW+Xo7ayEbNhLZOURs1UEPHsgXBwPOuo9epSF12g9SgFr36HUWvGlJmnU6RMun3HL7sL/W3ypQ11jy/o/BVy5Se/yLWsFn9+1CYV3/i+LNf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-02T06:03:47.053Z" agent="5.0 (Windows)" etag="r-IfrI-HhNdAfza6iRcx" version="21.0.6" type="github">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1050" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Inventory System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="70" y="10" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Inventory Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="510" y="10" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pfEwMGNjZ2oS8ZEN_N7C-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pfEwMGNjZ2oS8ZEN_N7C-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pfEwMGNjZ2oS8ZEN_N7C-3" value="Inventory Manager" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pfEwMGNjZ2oS8ZEN_N7C-6" value="Inventory Viewer" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
