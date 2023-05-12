@@ -1,1 +1,1 @@
-# Inventory_2ndSem
+Inventory Management System
